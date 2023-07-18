@@ -1,0 +1,13 @@
+.bannerBgimage{
+    height:100vh;
+    background:ur1("/images/BANNER.IMAGE.jpg")
+    background-size: cover;
+    position: relative;
+}
+.bannerText{
+    text-algin: center;
+    position:absolute;
+    top:50% I
+left:50%
+transform:transalate
+}
